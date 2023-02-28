@@ -1,0 +1,29 @@
+
+load flowers.ppm flowers
+brighten -50 flowers dark-flowers
+save dark-flowers.ppm dark-flowers
+brighten 50 flowers b-flowers
+save bright-flowers.ppm b-flowers
+vertical-flip flowers v-flowers
+save v-flowers.ppm v-flowers
+horizontal-flip flowers h-flowers
+save h-flowers.ppm h-flowers
+red-component flowers r-flowers
+save r-flowers.ppm r-flowers
+blue-component flowers b-flowers
+save b-flowers.ppm b-flowers
+green-component flowers g-flowers
+save g-flowers.ppm g-flowers
+value-component flowers v-flowers
+save v-flowers.ppm v-flowers
+luma-component flowers l-flowers
+save l-flowers.ppm l-flowers
+blur flowers blur-flowers
+save blur-flowers.ppm blur-flowers
+sharpen flowers sharp-flowers
+save sharp-flowers.ppm sharp-flowers
+sepia flowers sepia-flowers
+save sepia-flowers.ppm sepia-flowers
+greyscale flowers grey-flowers
+save grey-flowers.ppm grey-flowers
+q

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="091906de-5be8-4921-a822-3f403e569c7a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GeTfE01GROpFj5Gmr9G6jI8cdO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/elipi/Desktop/3500/exam notes/prefixfinder&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ImageProcessor">
+    <configuration name="ImageProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImageProcessor" />
+      <module name="image-processor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreyscaleImageCommandTest.testBlueImage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="image-processor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GreyscaleImageCommandTest" />
+      <option name="METHOD_NAME" value="testBlueImage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreyscaleImageCommandTest.testPurpleWithBlack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="image-processor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GreyscaleImageCommandTest" />
+      <option name="METHOD_NAME" value="testPurpleWithBlack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SepiaImageCommandTest.testBlueSepia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="image-processor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SepiaImageCommandTest" />
+      <option name="METHOD_NAME" value="testBlueSepia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SepiaImageCommandTest.testWhiteSepia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="image-processor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SepiaImageCommandTest" />
+      <option name="METHOD_NAME" value="testWhiteSepia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImageProcessor" />
+        <item itemvalue="JUnit.GreyscaleImageCommandTest.testPurpleWithBlack" />
+        <item itemvalue="JUnit.GreyscaleImageCommandTest.testBlueImage" />
+        <item itemvalue="JUnit.SepiaImageCommandTest.testBlueSepia" />
+        <item itemvalue="JUnit.SepiaImageCommandTest.testWhiteSepia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="091906de-5be8-4921-a822-3f403e569c7a" name="Changes" comment="" />
+      <created>1666748150504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666748150504</updated>
+      <workItem from="1666748153358" duration="1855000" />
+      <workItem from="1667869957105" duration="2395000" />
+      <workItem from="1667960712139" duration="2022000" />
+      <workItem from="1668013179042" duration="2063000" />
+      <workItem from="1668435300172" duration="54000" />
+      <workItem from="1668608462960" duration="1987000" />
+      <workItem from="1668723240188" duration="21000" />
+      <workItem from="1669150020702" duration="759000" />
+      <workItem from="1669677237123" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+load res/flowers.ppm flowers
+vertical-flip flowers f
+save FLIPPED_FROM_TEXT_FILE.ppm f
+q
